@@ -72,4 +72,11 @@ p1 <- ggplot(data=out2_long) +
 
 ggsave(p1, file="~/test_plot1.pdf")
 
+sdfds
+
+
+
+git config --global user.email "zach.yu1234@gmail.com"
+git config --global user.name "Yankun Yu"
+
 ### your turn: use the basic framework of a function and a plot that we used above to generate the standard Hardy Weinberg plot
