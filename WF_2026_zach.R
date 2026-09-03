@@ -85,5 +85,5 @@ foreach(locus.i=c(1:10),combine="rbind")%do%{
   
 ### Your turn: combine the "for" and "foreach" loops, and likely a function that you write, 
 ### to simulate different population sizes and a few hundred loci per population size for several hundred generations
-
+ss
 
