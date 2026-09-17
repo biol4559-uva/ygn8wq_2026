@@ -53,7 +53,7 @@ rd[,realProp:=nSim/(nSim+nMel)]
 
 rd <- foreach(bamFile=fl, .combine="rbind")%dopar%
 
-
+ss
 
 
 ### estimated vs real
